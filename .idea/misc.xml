@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="app/src/main/res/layout/activity_add_new_order.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable/linear_gradient.xml" value="0.1375" />
+        <entry key="app/src/main/res/layout/activity_add_new_order.xml" value="0.375" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.30344202898550726" />
+        <entry key="app/src/main/res/layout/item_coffee_type_layout.xml" value="0.27807971014492755" />
+        <entry key="app/src/main/res/layout/item_layout.xml" value="0.67" />
       </map>
     </option>
   </component>
